@@ -1,6 +1,9 @@
 # ssd-server-notes
 Assorted notes and dotfiles for acropolis/athens.
 
+
+ __acropolis and athens share the same disk space so files on one will appear on the other.__ This isn't documented anywhere as far as I can tell and is a bit of a nightmare sometimes since they don't share the same software versions.
+ 
 # qsub
 
 - `showq`
